@@ -1,0 +1,7 @@
+numpy
+opencv-python
+rospy
+pcl-py
+gazebo_ros_pkgs
+matplotlib
+
